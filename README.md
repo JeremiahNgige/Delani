@@ -4,9 +4,9 @@
   
 ## Description
 
- Akan is a website to calculate and alert you your Akan name besides the day of the week your were born, given your gender and year, month, date of birth. <br/>
+ Delani website is an organisation portfolio to showcase and enlighten on what the organisation offers as service.You can also communicate with the organisation through the contact form on the lower section of the website. <br/>
 
- [Website](https://jeremiahngige.github.io/Akan/)
+ [Website](https://jeremiahngige.github.io/Delani/)
 
 ## Technologies Used
 
