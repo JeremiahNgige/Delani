@@ -71,16 +71,13 @@ body{
     height: 100%;
     background: transparent;
     display: grid;
-    grid-template-columns: auto;
-    flex-wrap: wrap;
-   
-    
+    flex-wrap: wrap;  
 }
 .inner1{
-    flex: 1 0 50px;
+    flex: 1 1 150px;
     margin: 5px;
     background:transparent;
-    height: 150px;
+    height: 20%;
     color: black;
 }
 .inner1-two{ 
