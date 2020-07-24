@@ -88,7 +88,7 @@ body{
     margin-bottom: 30px;
     height: 400px;
     color: white;
-    background:linear-gradient(rgba(0, 0, 0, 0.493),rgba(0, 0, 0, 0.185)), url(https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/s_image.jpg) fixed no-repeat top center;
+    background:linear-gradient(rgba(0, 0, 0, 0.493),rgba(0, 0, 0, 0.37)), url(https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/s_image.jpg) fixed no-repeat top center;
     background-size: cover; 
     top: auto; 
 }
@@ -98,7 +98,7 @@ body{
 .portfolio{
     width: 100vw;
     height: 100vh;
-    background: blueviolet;
+    background:whitesmoke;
 }
 @media only screen and (max-width:768px){
 
