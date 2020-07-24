@@ -4,13 +4,13 @@
   
 ## Description
 
- Akan is a website to calculate and alert you your Akan name besides the day of the week your were born, given your gender and year, month, date of birth.<br/>
+ Akan is a website to calculate and alert you your Akan name besides the day of the week your were born, given your gender and year, month, date of birth. <br/>
 
  [Website](https://jeremiahngige.github.io/Akan/)
 
 ## Technologies Used
 
-     Html.<br/> css.<br/> js.
+Html.<br/> css.<br/> js.
 
 ## Support and contact details
 
