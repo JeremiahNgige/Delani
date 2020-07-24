@@ -71,6 +71,7 @@ body{
     height: 100%;
     background: transparent;
     display: grid;
+    grid-template-columns: auto;
     flex-wrap: wrap;
    
     
