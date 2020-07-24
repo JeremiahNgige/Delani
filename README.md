@@ -9,7 +9,7 @@
 
 ## Technologies Used
 
-[Html]. [css]. [js].
+Html.<br/> css.<br/> js.
 
 ## Support and contact details
 
