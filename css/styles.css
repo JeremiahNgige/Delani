@@ -97,7 +97,7 @@ body{
 .portfolio{
     width: 100vw;
     height: 100vh;
-    background:purple;
+    background:whitesmoke;
 }
 .color-white{
     color: white;
@@ -113,11 +113,10 @@ body{
     flex-wrap: wrap; 
 }
 .service-icons{
-    flex: 1 1 150px;
+    flex: 1 1 250px;
     margin: 5px;
-    background:blue;
+    background:transparent;
     height: auto;
-    width: 300px;
     color: black;
 }
 #design-descr{
@@ -133,8 +132,75 @@ body{
     background: transparent;
 }
 .portfolio-imgs{
-    background: orangered;
+    background: transparent;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap; 
 }
+.line-1{
+    flex: 1 1 250px;
+    margin: 5px;
+    background:transparent;
+    height: auto;
+    color: black;
+}
+.line-2{
+    flex: 1 1 150px;
+    margin: 5px;
+    background:transparent;
+    height: auto;
+    color: black;
+}
+.work8{
+    width: 150px;
+    height: 150px;
+    background:url(https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/portfolio/work8.jpg)center  ;
+    background-size:cover ;
+}
+.work7{
+    width: 150px;
+    height: 150px;
+    background:url(https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/portfolio/work7.jpg)center  ;
+    background-size:cover ;
+}
+.work6{
+    width: 150px;
+    height: 150px;
+    background:url(https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/portfolio/work6.jpg)center  ;
+    background-size:cover ;
+}
+.work5{
+    width: 150px;
+    height: 150px;
+    background:url(https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/portfolio/work5.jpg)center  ;
+    background-size:cover ;
+}
+.work4{
+    width: 150px;
+    height: 150px;
+    background:url(https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/portfolio/work4.jpg)center  ;
+    background-size:cover ;
+}
+.work3{
+    width: 150px;
+    height: 150px;
+    background:url(https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/portfolio/work3.jpg)center  ;
+    background-size:cover ;
+}
+.work2{
+    width: 150px;
+    height: 150px;
+    background:url(https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/portfolio/work2.jpg)center  ;
+    background-size:cover ;
+}
+.work1{
+    width: 150px;
+    height: 150px;
+    background:url(https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/portfolio/work1.jpg)center  ;
+    background-size:cover ;
+}
+
 @media only screen and (max-width:768px){
 
 }
