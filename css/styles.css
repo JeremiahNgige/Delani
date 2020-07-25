@@ -82,6 +82,21 @@ body{
     background:transparent;
     height: 20%;
     color: black;
+    width: 100%;
+}
+.outer2{
+    width: 100%;
+    height: 100%;
+    background: transparent;
+    display: grid;
+    place-items:center; 
+}
+.inner2{
+    margin-bottom: 100px;
+    background:transparent;
+    height: 20%;
+    color: black;
+    width: 60%;
 }
 .inner1-two{ 
     margin-bottom: 0px;
@@ -90,6 +105,13 @@ body{
     background:linear-gradient(rgba(0, 0, 0, 0.493),rgba(0, 0, 0, 0.37)), url(https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/s_image.jpg) fixed no-repeat top center;
     background-size: cover; 
     top: auto; 
+}
+.inner1-three{ 
+    margin-bottom: 0px;
+    height: 100%;
+    color: white;
+    background:linear-gradient(rgba(0, 0, 0, 0.493),rgba(0, 0, 0, 0.37)), url(https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/c_image.jpg)fixed no-repeat top center;
+    background-size: cover;
 }
 #about-txt{
     color: black;
@@ -269,6 +291,49 @@ body{
     width: 100%;
     padding-top: 20px;
     background: linear-gradient(rgba(0, 0, 0, 0.623),rgba(0, 0, 0, 0.671));     
+}
+.contact-us{
+    width: auto;
+    height: auto;
+    background:whitesmoke;
+}
+.input-ui{
+    font-size: 20px;
+    background: transparent;
+    margin-top: 30px;
+    margin-left: 50px;
+    width: 80%;
+    border: white 1px solid;
+}
+.text-area-ui{
+    font-size: 20px;
+    background: transparent;
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-bottom: 0px;
+    width: 80%;
+    height: 100px;
+    border: white 1px solid;
+}
+.form{
+    background: transparent;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap; 
+    color: white;
+}
+.footer{
+    width: auto;
+    height: auto;
+    background: whitesmoke;
+}
+.icons{
+    background: transparent;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap; 
 }
 @media only screen and (max-width:768px){
 
