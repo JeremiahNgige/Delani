@@ -98,8 +98,36 @@ body{
 .portfolio{
     width: 100vw;
     height: 100vh;
-    background:whitesmoke;
+    background:purple;
 }
+.color-white{
+    color: white;
+}
+.color-black{
+    color: black;
+}
+.toggle-sec{
+    width: 100%;
+    height: 100%;
+    background:transparent;
+    display: flex;
+    flex-wrap: wrap; 
+}
+.service-icons{
+    flex: 1 1 150px;
+    margin: 5px;
+    background:blue;
+    height: auto;
+    width: 200px;
+    color: black;
+}
+#design-descr{
+    display: none;
+}
+.press{
+    background: transparent;
+}
+
 @media only screen and (max-width:768px){
 
 }
