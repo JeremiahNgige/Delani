@@ -94,7 +94,7 @@ body{
 .inner2{
     margin-bottom: 100px;
     background:transparent;
-    height: 20%;
+    height: auto;
     color: black;
     width: 60%;
 }
