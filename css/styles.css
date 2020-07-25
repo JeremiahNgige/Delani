@@ -20,8 +20,8 @@ body{
     padding: 1px;
 }
 .img-bg{
-    width: 100vw;
-    height: 95vh;
+    width: auto;
+    height: 100vh;
     background: linear-gradient(rgba(0, 0, 0, 0.329),rgba(0, 0, 0, 0.185)), url(https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/h_img.jpg)  no-repeat center center fixed;
     background-size: cover;
 }
@@ -140,7 +140,7 @@ body{
 }
 .line-1{
     flex: 1 1 500px;
-    margin-left: 70px;
+    margin-left: 50px;
     background:transparent;
     height: auto;
     color: black;
@@ -153,49 +153,49 @@ body{
     color: black;
 }
 .work8{
-    width: 150px;
+    width: 170px;
     height: 150px;
     background:url(https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/portfolio/work8.jpg)center  ;
     background-size:cover ;
 }
 .work7{
-    width: 150px;
+    width: 170px;
     height: 150px;
     background:url(https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/portfolio/work7.jpg)center  ;
     background-size:cover ;
 }
 .work6{
-    width: 150px;
+    width: 170px;
     height: 150px;
     background:url(https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/portfolio/work6.jpg)center  ;
     background-size:cover ;
 }
 .work5{
-    width: 150px;
+    width: 170px;
     height: 150px;
     background:url(https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/portfolio/work5.jpg)center  ;
     background-size:cover ;
 }
 .work4{
-    width: 150px;
+    width: 170px;
     height: 150px;
     background:url(https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/portfolio/work4.jpg)center  ;
     background-size:cover ;
 }
 .work3{
-    width: 150px;
+    width: 170px;
     height: 150px;
     background:url(https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/portfolio/work3.jpg)center  ;
     background-size:cover ;
 }
 .work2{
-    width: 150px;
+    width: 170px;
     height: 150px;
     background:url(https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/portfolio/work2.jpg)center  ;
     background-size:cover ;
 }
 .work1{
-    width: 150px;
+    width: 170px;
     height: 150px;
     background:url(https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/portfolio/work1.jpg)center  ;
     background-size:cover ;
@@ -204,7 +204,72 @@ body{
     width: auto;
     height: auto;
 }
-
+.work4-cont{
+    display: none;
+    height: 100%;
+    width: 100%;
+    padding-top: 20px;
+    background: linear-gradient(rgba(0, 0, 0, 0.623),rgba(0, 0, 0, 0.671));    
+}
+.box{
+    width: 80%;
+    height: 80%;
+    margin-left: 20px;
+    background: transparent;
+    border: white 2px solid;
+    font-size: 10px;
+    font-weight: lighter;
+    font-family: 'Righteous';
+}
+.work3-cont{
+    display: none;
+    height: 100%;
+    width: 100%;
+    padding-top: 20px;
+    background: linear-gradient(rgba(0, 0, 0, 0.623),rgba(0, 0, 0, 0.671));    
+}
+.work2-cont{
+    display: none;
+    height: 100%;
+    width: 100%;
+    padding-top: 20px;
+    background: linear-gradient(rgba(0, 0, 0, 0.623),rgba(0, 0, 0, 0.671));     
+}
+.work1-cont{
+    display: none;
+    height: 100%;
+    width: 100%;
+    padding-top: 20px;
+    background: linear-gradient(rgba(0, 0, 0, 0.623),rgba(0, 0, 0, 0.671));    
+}
+.work5-cont{
+    display: none;
+    height: 100%;
+    width: 100%;
+    padding-top: 20px;
+    background: linear-gradient(rgba(0, 0, 0, 0.623),rgba(0, 0, 0, 0.671));     
+}
+.work6-cont{
+    display: none;
+    height: 100%;
+    width: 100%;
+    padding-top: 20px;
+    background: linear-gradient(rgba(0, 0, 0, 0.623),rgba(0, 0, 0, 0.671));    
+}
+.work7-cont{
+    display: none;
+    height: 100%;
+    width: 100%;
+    padding-top: 20px;
+    background: linear-gradient(rgba(0, 0, 0, 0.623),rgba(0, 0, 0, 0.671));    
+}
+.work8-cont{
+    display: none;
+    height: 100%;
+    width: 100%;
+    padding-top: 20px;
+    background: linear-gradient(rgba(0, 0, 0, 0.623),rgba(0, 0, 0, 0.671));     
+}
 @media only screen and (max-width:768px){
 
 }
