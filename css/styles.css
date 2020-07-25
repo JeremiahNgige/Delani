@@ -61,8 +61,8 @@ body{
        bottom: 0;
 }
 .about-us{
-    width: 100vw;
-    height: 100vh;
+    width: auto;
+    height:auto;
     background: whitesmoke;
 
 }
@@ -95,8 +95,8 @@ body{
     color: black;
 }
 .portfolio{
-    width: 100vw;
-    height: 100vh;
+    width: auto;
+    height: auto;
     background:whitesmoke;
 }
 .color-white{
@@ -139,14 +139,14 @@ body{
     flex-wrap: wrap; 
 }
 .line-1{
-    flex: 1 1 250px;
-    margin: 5px;
+    flex: 1 1 500px;
+    margin-left: 70px;
     background:transparent;
     height: auto;
     color: black;
 }
 .line-2{
-    flex: 1 1 150px;
+    flex: 1 1 auto;
     margin: 5px;
     background:transparent;
     height: auto;
@@ -199,6 +199,10 @@ body{
     height: 150px;
     background:url(https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/portfolio/work1.jpg)center  ;
     background-size:cover ;
+}
+.contact-us{
+    width: auto;
+    height: auto;
 }
 
 @media only screen and (max-width:768px){
