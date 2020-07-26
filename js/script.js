@@ -1,7 +1,4 @@
-//business logic
-var name = document.getElementById('mce-FNAME').value;
- 
-//ui code 
+ //ui code 
 $("document").ready(function(){
     $(".press").click(function(){
         $("#design").toggle();
