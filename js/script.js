@@ -1,3 +1,7 @@
+//business logic
+var name = document.getElementById('mce-FNAME').value;
+ 
+//ui code 
 $("document").ready(function(){
     $(".press").click(function(){
         $("#design").toggle();
@@ -50,5 +54,8 @@ $("document").ready(function(){
         $(".work8-cont").show();
     },function(){
         $(".work8-cont").hide();
+    });
+    $("#mc-embedded-subscribe").click(function(){
+        alert("thank you for reaching out to us");
     });
 });
