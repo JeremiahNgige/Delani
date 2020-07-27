@@ -1,3 +1,4 @@
+
  //ui code 
 $("document").ready(function(){
     $(".press").click(function(){
@@ -53,6 +54,15 @@ $("document").ready(function(){
         $(".work8-cont").hide();
     });
     $("#mc-embedded-subscribe").click(function(){
-        alert("thank you for reaching out to us");
+       return yourName();
     });
 });
+
+ //business logic
+ function yourName(){
+    name = document.getElementById("mce-FNAME").value;
+    console.log(name.length);
+    let alertName = alert(name +" " +"thankyou for reaching out to us, We've recieved your message");
+    console.log(alertName);
+    return alertName;
+}
